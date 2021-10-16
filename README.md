@@ -24,6 +24,12 @@ As this project requires a couple of third-party packages that are not part of t
 
 </br>
 
+# Colab Link
+
+[Colab] https://colab.research.google.com/drive/1lcvpGrDI8VIsNcqSyo82qVOPMtw7FJTR?usp=sharing
+
+</br>
+
 # Acknowledgements
 
 - [DPhi](https://dphi.tech/challenges/data-sprint-47-airbnb-berlin-price-prediction/160/overview/about)
