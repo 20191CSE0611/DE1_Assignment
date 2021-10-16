@@ -1,4 +1,3 @@
-# Detect_Outliers
 # Project : Airbnb Berlin Price Prediction
 
 # Project Overview
