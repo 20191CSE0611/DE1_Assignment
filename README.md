@@ -25,7 +25,7 @@ As this project requires a couple of third-party packages that are not part of t
 
 # Colab Link
 
-[Colab] https://colab.research.google.com/drive/1lcvpGrDI8VIsNcqSyo82qVOPMtw7FJTR?usp=sharing
+[CLICK HERE TO VIEW THE COLAB NOTEBOOK](https://colab.research.google.com/drive/1lcvpGrDI8VIsNcqSyo82qVOPMtw7FJTR?usp=sharing)
 
 </br>
 
